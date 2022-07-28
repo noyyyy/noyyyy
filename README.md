@@ -2,7 +2,7 @@
 
 
 
-Hi, this is Jerry / Noy, finance undergraduate with self-taught CS. A opensoure lover, amateur chinese dancer and explore new things totally by interest.
+Hi, this is Jerry / Noy, finance undergraduate with self-taught CS. A opensoure lover, amateur chinese dancer and new things explorer.
 
 
 Working for [@Project Twelve](https://github.com/ProjectTwelve/) by day.
