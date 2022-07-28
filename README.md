@@ -6,6 +6,7 @@ Hi, this is Jerry / Noy, finance undergraduate with self-taught CS. A opensoure 
 
 
 Working for [@Project Twelve](https://github.com/ProjectTwelve/) by day.
+
 Maintaining [@Notion-faster](https://github.com/Jerrywang959/notion-reverse-proxy), developing [@Spark-store](https://gitee.com/deepin-community-store) and building fantastic projects by night.
 
 Reach me on: github.m5oih@simplelogin.com
