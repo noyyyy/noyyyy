@@ -21,4 +21,4 @@ Reach me on: github.m5oih@simplelogin.com
 
 
 
-<!-- ![Profile views](https://gpvc.arturio.dev/Jerrywang959) -->
+![Profile views](https://gpvc.arturio.dev/Jerrywang959)
