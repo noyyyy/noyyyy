@@ -5,9 +5,17 @@
 Hi, this is Jerry / Noy, finance undergraduate with self-taught CS. A opensoure lover, amateur chinese dancer and new things explorer.
 
 
-Working for [@Project Twelve](https://github.com/ProjectTwelve/) by day.
+Currently working for [@Project Twelve](https://github.com/ProjectTwelve/)
 
-Maintaining [@Notion-faster](https://github.com/Jerrywang959/notion-reverse-proxy), developing [@Spark-store](https://gitee.com/deepin-community-store) and building fantastic projects by night.
+## Project
+
+- [@sisyphusprotocol](https://github.com/sisyphusprotocol/): A decentralized social protocol based on blockchain technology, to help self-improvement and encourage creators economy.
+
+- [@Notion-faster](https://github.com/Jerrywang959/notion-reverse-proxy): Notion reverse proxy for better speed 
+  
+- [@Spark-store](https://gitee.com/deepin-community-store): Community software store for debian based distribution
+
+Maintaining , developing  and building fantastic projects by night.
 
 Reach me on: github.m5oih@simplelogin.com
 
