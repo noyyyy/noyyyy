@@ -15,8 +15,6 @@ Currently working for [@Project Twelve](https://github.com/ProjectTwelve/)
   
 - [@Spark-store](https://gitee.com/deepin-community-store): Community software store for debian based distribution
 
-Maintaining , developing  and building fantastic projects by night.
-
 Reach me on: github.m5oih@simplelogin.com
 
 
