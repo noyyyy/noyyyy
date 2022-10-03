@@ -9,11 +9,11 @@ Currently working for [@Project Twelve](https://github.com/ProjectTwelve/)
 
 ## Project
 
-- [@sisyphusprotocol](https://github.com/sisyphusprotocol/): A decentralized social protocol based on blockchain technology, to help self-improvement and encourage creators economy.
+- [Sisyphus Protocol](https://github.com/sisyphusprotocol/): A decentralized social protocol based on blockchain technology, to help self-improvement and encourage creators economy.
 
-- [@Notion-faster](https://github.com/Jerrywang959/notion-reverse-proxy): Notion reverse proxy for better speed 
+- [Notion-faster](https://github.com/Jerrywang959/notion-reverse-proxy): Notion reverse proxy for better speed 
   
-- [@Spark-store](https://gitee.com/deepin-community-store): Community software store for debian based distribution
+- [Spark-store](https://gitee.com/deepin-community-store): Community software store for debian based distribution
 
 Reach me on: github.m5oih@simplelogin.com
 
