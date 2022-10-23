@@ -2,7 +2,7 @@
 
 
 
-Hi, this is Jerry / Noy, finance undergraduate with self-taught CS. A opensoure lover, amateur chinese dancer and new things explorer.
+Hi, this is  Noy, finance undergraduate with self-taught CS. A opensoure lover, amateur chinese dancer and new things explorer.
 
 
 Currently working for [@Project Twelve](https://github.com/ProjectTwelve/)
@@ -11,7 +11,7 @@ Currently working for [@Project Twelve](https://github.com/ProjectTwelve/)
 
 - [Sisyphus Protocol](https://github.com/sisyphusprotocol/): A decentralized social protocol based on blockchain technology, to help self-improvement and encourage creators economy.
 
-- [Notion-faster](https://github.com/Jerrywang959/notion-reverse-proxy): Notion reverse proxy for better speed 
+- [Notion-faster](https://github.com/noyyyy/notion-reverse-proxy): Notion reverse proxy for better speed 
   
 - [Spark-store](https://gitee.com/deepin-community-store): Community software store for debian based distribution
 
@@ -23,9 +23,9 @@ Reach me on: github.m5oih@simplelogin.com
 | **Language / IDE** | ![Solidity Badge](https://img.shields.io/badge/-Solidity-3776AB?style=flat&logo=Solidity&logoColor=white) ![Nodejs Badge](https://img.shields.io/badge/-Node.js-3776AB?style=flat&logo=Node.js&logoColor=white) ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Vscode Badge](https://img.shields.io/badge/-Vscode-3776AB?style=flat&logo=VisualStudioCode&logoColor=white)                                                                                                  |
 | **OS**             | ![Zorin Badge](https://img.shields.io/badge/-Zorin-3776AB?style=flat&logo=Zorin&logoColor=white) ![Deepin Badge](https://img.shields.io/badge/-Deepin-3776AB?style=flat&logo=Deepin&logoColor=white) ![Debian Badge](https://img.shields.io/badge/-Debian-3776AB?style=flat&logo=Debian&logoColor=white) ![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu-3776AB?style=flat&logo=Ubuntu&logoColor=white) ![Windows Badge](https://img.shields.io/badge/-Windows-3776AB?style=flat&logo=Windows&logoColor=white) |
 
-![Noy's github stats](https://github-readme-stats.vercel.app/api?username=Jerrywang959&show_icons=true&theme=radical&include_all_commits=true)
+![Noy's github stats](https://github-readme-stats.vercel.app/api?username=noyyyy&show_icons=true&theme=radical&include_all_commits=true)
 
 
 
 
-![Profile views](https://gpvc.arturio.dev/Jerrywang959)
+![Profile views](https://gpvc.arturio.dev/noyyyy)
