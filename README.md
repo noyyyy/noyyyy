@@ -2,7 +2,7 @@
 
 
 
-Hi, this is  Noy, finance undergraduate with self-taught CS. A opensoure lover, amateur chinese dancer and new things explorer.
+Hi, this is  Noy, finance graduate with self-taught CS. A opensoure lover, amateur chinese dancer and new things explorer.
 
 
 Currently working for [@Project Twelve](https://github.com/ProjectTwelve/)
