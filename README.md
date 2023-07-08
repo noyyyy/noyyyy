@@ -9,6 +9,8 @@ Currently working for [@Project Twelve](https://github.com/ProjectTwelve/)
 
 ## Project
 
+- [Autochessia](https://github.com/HelheimLabs/autochessia): Fully on-chain auto chess, built with MUD
+
 - [Sisyphus Protocol](https://github.com/sisyphusprotocol/): A decentralized social protocol based on blockchain technology, to help self-improvement and encourage creators economy.
 
 - [Notion-faster](https://github.com/noyyyy/notion-reverse-proxy): Notion reverse proxy for better speed 
