@@ -9,7 +9,7 @@ Currently working for [@Project Twelve](https://github.com/ProjectTwelve/)
 
 ## Project
 
-- [Autochessia](https://github.com/HelheimLabs/autochessia): Fully on-chain auto chess, built with MUD
+- [Autochessia](https://github.com/HelheimLabs/autochessia): On-chain auto chess game
 
 - [Sisyphus Protocol](https://github.com/sisyphusprotocol/): A decentralized social protocol based on blockchain technology, to help self-improvement and encourage creators economy.
 
