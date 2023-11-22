@@ -4,18 +4,16 @@
 
 Hi, this is  Noy, finance graduate with self-taught CS. I love open soure lover, amateur chinese dancer and new things in technology.
 
-Foucsing on Autonomous world
-Working at [@Project Twelve](https://github.com/ProjectTwelve/)
+Currently, Foucsing on Autonomous world
 
-## Project
+Working at [@Project Twelve](https://github.com/ProjectTwelve/) and did many side project.
+
+## Recent Project
 
 - [Autochessia](https://github.com/HelheimLabs/autochessia): On-chain auto chess game
 
-- [Sisyphus Protocol](https://github.com/sisyphusprotocol/): A decentralized social protocol based on blockchain technology, to help self-improvement and encourage creators economy.
-
 - [Notion-faster](https://github.com/noyyyy/notion-reverse-proxy): Notion reverse proxy for better speed 
-  
-- [Spark-store](https://gitee.com/deepin-community-store): Community software store for debian based distribution
+
 
 Reach me on: github.m5oih@simplelogin.com
 
