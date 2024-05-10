@@ -2,9 +2,6 @@
 
 Hi, this is  Noy, finance graduate with self-taught CS. I love open soure, chinese dance and new things in technology.
 
-Currently, work for [@Project Twelve](https://github.com/ProjectTwelve/) and do many side projects.
-
-
 Foucsing on Autonomous world
 
 
