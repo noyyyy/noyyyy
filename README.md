@@ -2,15 +2,8 @@
 
 Hi, this is  Noy, finance graduate with self-taught CS. I love open soure, chinese dance and new things in technology.
 
-Foucsing on Autonomous world
+I'm pivoting.
 
-
-
-## Recent Project
-
-- [Autochessia](https://github.com/HelheimLabs): On-chain auto chess game
-- [StayWarm](https://github.com/StayWarmLabs/StayWarm): Survival-like meta game 
-- [stickboi](https://github.com/HelheimLabs/stickboi): A meme silly match man game
 
 Reach me on: github.m5oih@simplelogin.com
 
