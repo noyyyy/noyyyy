@@ -7,6 +7,4 @@ I'm pivoting.
 
 Reach me on: github.m5oih@simplelogin.com
 
-![Noy's github stats](https://github-readme-stats.vercel.app/api?username=noyyyy&show_icons=true&theme=radical&include_all_commits=true)
-
-![Profile views](https://gpvc.arturio.dev/noyyyy)
+[![VibeUsage](https://vibecafe.ai/@noy/badge)](https://vibecafe.ai/@noy?ref=badge)
