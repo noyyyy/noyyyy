@@ -8,3 +8,6 @@ I'm pivoting.
 Reach me on: github.m5oih@simplelogin.com
 
 [![VibeUsage](https://vibecafe.ai/@noy/badge)](https://vibecafe.ai/@noy?ref=badge)
+
+
+<!-- I'm not currently looking for a new job. -->
